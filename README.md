@@ -10,4 +10,4 @@ From <https://ansyshelp.ansys.com/public/Views/Secured/Electronics/v242/en/Subsy
 
 
 Please refer to :
-e_field_aedtplt_reconfiguration.py<img width="640" height="111" alt="image" src="https://github.com/user-attachments/assets/289d4bde-834f-4b3e-84ec-a0ae6adf68ba" />
+e_field_aedtplt_reconfiguration.py
