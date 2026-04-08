@@ -25,6 +25,8 @@ For quantitative near-field comparison, the scalar E-field contour data exported
 For each mode and cut-plane, an ROI centered at the Rx location was defined, and the corresponding E_peak, E_mean, and E_std  values were extracted. These metrics were used to compare the field concentration and uniformity of the different modes.
 
 
+The Code structure and algorithms in behind is shown in 
+
 <img width="539" height="558" alt="image" src="https://github.com/user-attachments/assets/35075950-69de-4fc7-8625-dfaa866db8d4" />
 
 
