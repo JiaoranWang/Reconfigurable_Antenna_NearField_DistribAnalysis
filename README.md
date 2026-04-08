@@ -41,6 +41,3 @@ Mode	Plane	ROI_Points	E_peak (V/m)  	E_mean (V/m)	E_standardDeviation (V/m)
 
 The overall process is defined as this way:
 
-
-
-<img width="1930" height="3618" alt="image" src="https://github.com/user-attachments/assets/a18ad0d5-3c20-46ac-a05e-35f80fa1f091" />
