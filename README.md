@@ -17,6 +17,7 @@ e_field_aedtplt_reconfiguration.py
 
 <img width="1853" height="978" alt="image" src="https://github.com/user-attachments/assets/726addc3-62ea-4cc1-b2ce-3261dbe7741b" />
 
+<img width="752" height="462" alt="image" src="https://github.com/user-attachments/assets/2d301183-ee56-4664-bb11-c93f6148c465" />
 
 
 
