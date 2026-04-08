@@ -22,6 +22,18 @@ These tools are developed to support the **electromagnetic interpretation** of r
 The electrical field (E-field) distributions of Tx–Rx antenna system with a homogeneous phantom and the
 surface current distribution (J-surf) of the Rx antenna are evaluated.
 
+## Repository Contents
+
+| Type | File | Purpose |
+|---|---|---|
+| Documentation | `README.md` | Overview of the repository, workflow, and usage notes |
+| Raw data | `[000] E-XZ.aedtplt` | HFSS-exported electric-field data on the XZ cut-plane for mode `[000]` |
+| Raw data | `[000] Mag_Jsurf.aedtplt` | HFSS-exported surface-current magnitude data for mode `[000]` |
+| Raw data | `[000] Vec_Jsurf.aedtplt` | HFSS-exported surface-current vector data for mode `[000]` |
+| Process code | `e_field_aedtplt_reconfiguration.py` | Script for reading and organizing E-field `.aedtplt` data for reconfigurable modes |
+| Process code | `e_field_process.py` | Script for ROI-based E-field processing, metric extraction, and score calculation |
+| Process code | `j_surface_aedtplt_reconfiguration.py` | Script for reading and processing surface-current magnitude and vector `.aedtplt` data |
+
 
 ## Electrical Field Analysis Model
 
@@ -82,19 +94,6 @@ Depending on the analysis, the user should define:
 
 Example structure:
 
-.
-├── data/
-│   ├── efield/
-│   ├── mag_jsurf/
-│   └── vec_jsurf/
-├── scripts/
-│   ├── nearfield_analysis.py
-│   ├── current_analysis.py
-│   └── utils.py
-├── results/
-│   ├── figures/
-│   └── tables/
-└── README.md
 
 You may modify the folder structure depending on your project organization.
 
