@@ -1,7 +1,5 @@
 # Near-field Coupling and Current Distribution Evaluation on Reconfigurable Antenna
 
-# Near-field Coupling and Current Distribution Evaluation on Reconfigurable Antenna
- 
  the electrical field (E-field) distributions of Tx–Rx antenna system with a homogeneous phantom and the
 surface current distribution (J-surf) of the Rx antenna
 Are evaluated.
@@ -10,8 +8,7 @@ Are evaluated.
 
 
 ## Electrical Field Analysis Model
-## Current Distribution Analysis Model<img width="1731" height="605" alt="image" src="https://github.com/user-attachments/assets/8aee2469-7e3e-4547-93c1-215d3078ed3b" />
-
+## Current Distribution Analysis Model
 
 
 
