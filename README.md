@@ -5,7 +5,10 @@ This repository provides the analysis code used for the near-field coupling and 
 1. **Electrical Field Analysis Model (_ROI-based near-field evaluation_)**
 2. **Current Distribution Analysis Model (_PIN diode-region current concentration and flow-direction evaluation_)**
 
-These tools are developed to support the electromagnetic interpretation of radiation and coupling behavior under different reconfigurable modes.
+These tools are developed to support the **electromagnetic interpretation** of radiation and coupling behavior under different reconfigurable modes: 
+The electrical field (E-field) distributions of Tx–Rx antenna system with a homogeneous phantom and the
+surface current distribution (J-surf) of the Rx antenna are evaluated.
+
 
 ## Features
 
