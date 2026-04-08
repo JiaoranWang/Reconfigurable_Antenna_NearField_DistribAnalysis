@@ -2,8 +2,8 @@
 
 This repository provides the analysis code used for the near-field coupling and surface current distribution evaluation of a reconfigurable antenna system. The code processes exported `.aedtplt` files from **Ansys HFSS** and implements two quantitative analysis procedures:
 
-1. **ROI-based near-field evaluation**
-2. **PIN diode-region current concentration and flow-direction evaluation**
+1. **Electrical Field Analysis Model (_ROI-based near-field evaluation_)**
+2. **Current Distribution Analysis Model (_PIN diode-region current concentration and flow-direction evaluation_)**
 
 These tools are developed to support the electromagnetic interpretation of radiation and coupling behavior under different reconfigurable modes.
 
