@@ -26,7 +26,6 @@ surface current distribution (J-surf) of the Rx antenna are evaluated.
 
 | Type | File | Purpose |
 |---|---|---|
-| Documentation | `README.md` | Overview of the repository, workflow, and usage notes |
 | Raw data | `[000] E-XZ.aedtplt` | HFSS-exported electric-field data on the XZ cut-plane for mode `[000]` |
 | Raw data | `[000] Mag_Jsurf.aedtplt` | HFSS-exported surface-current magnitude data for mode `[000]` |
 | Raw data | `[000] Vec_Jsurf.aedtplt` | HFSS-exported surface-current vector data for mode `[000]` |
