@@ -3,15 +3,6 @@
 This repository provides the analysis code used for the near-field coupling and surface current distribution evaluation of a reconfigurable antenna system. The code processes exported `.aedtplt` files from **Ansys HFSS** and implements two quantitative analysis procedures:
 
 1. **Electrical Field Analysis Model (_ROI-based near-field evaluation_)**
-2. **Current Distribution Analysis Model (_PIN diode-region current concentration and flow-direction evaluation_)**
-
-These tools are developed to support the **electromagnetic interpretation** of radiation and coupling behavior under different reconfigurable modes: 
-The electrical field (E-field) distributions of Tx–Rx antenna system with a homogeneous phantom and the
-surface current distribution (J-surf) of the Rx antenna are evaluated.
-
-
-## Features
-
 - Parse scalar and vector `.aedtplt` files exported from Ansys HFSS
 - Extract electric-field data inside a selected region of interest (ROI)
 - Compute:
@@ -19,11 +10,22 @@ surface current distribution (J-surf) of the Rx antenna are evaluated.
   - mean electric field
   - standard deviation of electric field
   - weighted near-field score
+
+3. **Current Distribution Analysis Model (_PIN diode-region current concentration and flow-direction evaluation_)**
 - Extract surface current magnitude and vector data near PIN diode regions
 - Compute:
-  - current concentration
-  - flow-direction index
+    - current concentration
+    - flow-direction index
 - Compare different reconfigurable modes quantitatively
+
+These tools are developed to support the **electromagnetic interpretation** of radiation and coupling behavior under different reconfigurable modes: 
+The electrical field (E-field) distributions of Tx–Rx antenna system with a homogeneous phantom and the
+surface current distribution (J-surf) of the Rx antenna are evaluated.
+
+
+## Electrical Field Analysis Model
+
+
 
 ## Analysis Overview
 
