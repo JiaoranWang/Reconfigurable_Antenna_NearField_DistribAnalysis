@@ -20,8 +20,8 @@ e_field_aedtplt_reconfiguration.py
 <img width="752" height="462" alt="image" src="https://github.com/user-attachments/assets/2d301183-ee56-4664-bb11-c93f6148c465" />
 
 
-
-	For quantitative near-field comparison, the scalar E-field contour data exported from HFSS were processed in Python. For each mode and cut-plane, an ROI centered at the Rx location was defined, and the corresponding E_peak, E_mean, and E_std  values were extracted. These metrics were used to compare the field concentration and uniformity of the different modes.
+For quantitative near-field comparison, the scalar E-field contour data exported from HFSS were processed in Python. 
+For each mode and cut-plane, an ROI centered at the Rx location was defined, and the corresponding E_peak, E_mean, and E_std  values were extracted. These metrics were used to compare the field concentration and uniformity of the different modes.
 
 
 
