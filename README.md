@@ -1,4 +1,4 @@
-# Reconfigurable_Antenna_NearField_DistribAnalysis
+# Near-field Coupling and Current Distribution Evaluation on Reconfigurable Antenna
 
 
 
@@ -48,4 +48,13 @@ Mode	Plane	ROI_Points	E_peak (V/m)  	E_mean (V/m)	E_standardDeviation (V/m)
 ……
 
 The overall process is defined as this way:
+
+
+
+# Antenna Near-field 
+
+<img width="479" height="818" alt="image" src="https://github.com/user-attachments/assets/670bf8d1-9a6f-48dd-8e06-ffab5f57e34b" />
+
+
+
 
