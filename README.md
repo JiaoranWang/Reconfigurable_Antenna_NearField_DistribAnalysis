@@ -22,7 +22,7 @@ These tools are developed to support the **electromagnetic interpretation** of r
 The electrical field (E-field) distributions of Tx–Rx antenna system with a homogeneous phantom and the
 surface current distribution (J-surf) of the Rx antenna are evaluated.
 
-## Repository Contents
+### Contents
 
 | Type | File | Purpose |
 |---|---|---|
@@ -34,7 +34,28 @@ surface current distribution (J-surf) of the Rx antenna are evaluated.
 | Process code | `j_surface_aedtplt_reconfiguration.py` | Script for reading and processing surface-current magnitude and vector `.aedtplt` data |
 
 
+
+The format of .aedtplt is list in ANSYS HFSS Exporting Field Plots, and data processing 
+(https://ansyshelp.ansys.com/public/Views/Secured/Electronics/v242/en/Subsystems/HFSS/Content/ReportsandPostProc/ExportingFieldPlots.htm)
+
+
+
+
+
 ## Electrical Field Analysis Model
+
+<img width="752" height="462" alt="image" src="https://github.com/user-attachments/assets/0f227068-d04f-4d70-9c8b-35664f8f0a14" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -56,6 +77,9 @@ These metrics are then normalized and combined into a weighted score:
 - lower **E_std** is treated as beneficial after reverse normalization
 
 The final score is used to compare the near-field behavior of different modes.
+
+## Current Distribution Analysis Model
+
 
 ### 2. Surface Current Distribution Evaluation
 
