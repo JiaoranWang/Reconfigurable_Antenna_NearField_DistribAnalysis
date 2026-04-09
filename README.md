@@ -71,7 +71,8 @@ The final score is used to compare the near-field behavior of different modes.
 
 The .py processing code structure is:
 
-<img width="850" height="1700" alt="image" src="https://github.com/user-attachments/assets/18572d21-4d07-4f20-948c-dc7b4b55e4dd" />
+<img width="615" height="968" alt="image" src="https://github.com/user-attachments/assets/b00b4450-e528-497a-b56c-7fccd4ed3ebb" />
+
 
 The example scoring file is: 
 
