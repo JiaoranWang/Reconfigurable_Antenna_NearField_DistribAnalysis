@@ -88,3 +88,16 @@ These metrics are used to distinguish the different reconfigurable modes in term
 The .py processing code structure is following the algorithm:
 
 <img width="746" height="842" alt="image" src="https://github.com/user-attachments/assets/95b676ae-f1d9-4555-af56-93516bb2556e" />
+
+The calculated figure like: 
+
+<img width="1193" height="536" alt="image" src="https://github.com/user-attachments/assets/807943b0-85c9-4b43-877e-2457faa1f892" />
+
+
+
+
+
+
+
+
+
