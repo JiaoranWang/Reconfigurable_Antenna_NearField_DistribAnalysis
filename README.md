@@ -52,6 +52,7 @@ The format of .aedtplt is list in ANSYS HFSS Exporting Field Plots, and data pro
 
 
 
+
 ### 1. Near-Field Coupling Evaluation
 
 The near-field analysis evaluates the electric-field distribution within a predefined ROI for each reconfigurable mode and cut-plane.
@@ -72,6 +73,9 @@ The .py processing code structure is:
 
 <img width="850" height="1700" alt="image" src="https://github.com/user-attachments/assets/18572d21-4d07-4f20-948c-dc7b4b55e4dd" />
 
+The example scoring file is: 
+
+<img width="580" height="360" alt="image" src="https://github.com/user-attachments/assets/606b66c3-2f1d-487b-8ca4-0366b87d7db6" />
 
 
 ## Current Distribution Analysis Model
